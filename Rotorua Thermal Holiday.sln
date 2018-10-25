@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Login System", "Login System\Login System.csproj", "{9E1BFAB9-64BA-42C7-B600-A4C2AC40E986}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Payroll System", "Payroll System\Payroll System.csproj", "{2F04D447-8C7E-480E-A3B7-57817C0D1651}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E1BFAB9-64BA-42C7-B600-A4C2AC40E986}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E1BFAB9-64BA-42C7-B600-A4C2AC40E986}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E1BFAB9-64BA-42C7-B600-A4C2AC40E986}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E1BFAB9-64BA-42C7-B600-A4C2AC40E986}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F04D447-8C7E-480E-A3B7-57817C0D1651}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F04D447-8C7E-480E-A3B7-57817C0D1651}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F04D447-8C7E-480E-A3B7-57817C0D1651}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F04D447-8C7E-480E-A3B7-57817C0D1651}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83F58946-6CF2-4B51-A550-03074FF735EE}
+	EndGlobalSection
+EndGlobal
